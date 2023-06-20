@@ -1,3 +1,6 @@
 # Configuration file for discourse-translator-bot
 
-files: []
+files:
+  - source_path: docs/ADMIN-QUICK-START-GUIDE.md
+    destination_path: docs/ADMIN-QUICK-START-GUIDE.md
+    label: core
